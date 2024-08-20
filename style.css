@@ -1,0 +1,19 @@
+i {
+  margin-right: 10px;
+}
+.half-width {
+  width: 45vw;
+  height: 50vh;
+  /* background-color: rgba(127, 255, 212, 0.416); */
+  background-image: url(./img/images.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.input-block {
+  display: inline-block;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
